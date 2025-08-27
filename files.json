@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
   "description": "Git Gallery file color palette configuration",
-  "lastUpdated": "2025-01-26",
   "suffixConfigs": {
     ".ts": {
       "primary": {
@@ -52,7 +51,7 @@
       },
       "secondary": {
         "color": "#f1e05a",
-        "renderStrategy": "pattern",
+        "renderStrategy": "border",
         "opacity": 0.4
       },
       "displayName": "JSX",
@@ -179,7 +178,7 @@
       },
       "secondary": {
         "color": "#ffffff",
-        "renderStrategy": "pattern",
+        "renderStrategy": "border",
         "opacity": 0.3
       },
       "displayName": "Markdown",
@@ -408,7 +407,7 @@
       },
       "secondary": {
         "color": "#ffffff",
-        "renderStrategy": "pattern",
+        "renderStrategy": "border",
         "opacity": 0.4
       },
       "displayName": "SQL",
